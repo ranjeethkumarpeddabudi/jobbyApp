@@ -1,0 +1,41 @@
+.job-list-container {
+  background-color: #202020;
+  width: 100%;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+.company-logo {
+  height: 60px;
+  margin-right: 20px;
+}
+.link-item {
+  text-decoration: none;
+}
+.title-section {
+  display: flex;
+  align-items: center;
+}
+.company-title {
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+.rating-section {
+  display: flex;
+  align-items: center;
+}
+.location-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+}
+.location-section {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  padding: 0px;
+  justify-content: space-between;
+}

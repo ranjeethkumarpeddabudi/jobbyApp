@@ -1,0 +1,17 @@
+.not-found-container {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  padding: 20px;
+}
+.not-found-text {
+  color: #ffffff;
+}
+.not-found-info {
+  color: #f1f5f9;
+  margin-top: 0px;
+  text-align: center;
+}
